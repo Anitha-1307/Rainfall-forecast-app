@@ -165,7 +165,7 @@ index_html = """
             <input type="number" name="patience" value="20" min="5" max="100" step="5"><br>
             <button type="submit">🚀 Train Model</button>
         </form>
-        <div class="info">After training you'll see loss curve, scatter plot, time series, and RMSE/R².</div>
+        <div class="info">BRIJITH ANITHA T M.Sc Agricultural Statistics.,@TNAU.</div>
     </div>
 </body>
 </html>
